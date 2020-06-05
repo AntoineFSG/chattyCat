@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/chattycat/static/css/main.6d4168b8.chunk.css",
+    "main.js": "/chattycat/static/js/main.50fa2ffc.chunk.js",
+    "main.js.map": "/chattycat/static/js/main.50fa2ffc.chunk.js.map",
+    "runtime-main.js": "/chattycat/static/js/runtime-main.4a36cf9e.js",
+    "runtime-main.js.map": "/chattycat/static/js/runtime-main.4a36cf9e.js.map",
+    "static/js/2.88cb79e4.chunk.js": "/chattycat/static/js/2.88cb79e4.chunk.js",
+    "static/js/2.88cb79e4.chunk.js.map": "/chattycat/static/js/2.88cb79e4.chunk.js.map",
+    "index.html": "/chattycat/index.html",
+    "precache-manifest.3289a3f85d38867dd31d5074609e6fbf.js": "/chattycat/precache-manifest.3289a3f85d38867dd31d5074609e6fbf.js",
+    "service-worker.js": "/chattycat/service-worker.js",
+    "static/css/main.6d4168b8.chunk.css.map": "/chattycat/static/css/main.6d4168b8.chunk.css.map",
+    "static/js/2.88cb79e4.chunk.js.LICENSE.txt": "/chattycat/static/js/2.88cb79e4.chunk.js.LICENSE.txt",
+    "static/media/addFriends.svg": "/chattycat/static/media/addFriends.3bce66ec.svg",
+    "static/media/arrow.svg": "/chattycat/static/media/arrow.ac0d7ca7.svg",
+    "static/media/chatProfileViolet.svg": "/chattycat/static/media/chatProfileViolet.93836193.svg",
+    "static/media/done.svg": "/chattycat/static/media/done.914b421b.svg",
+    "static/media/exit.svg": "/chattycat/static/media/exit.13a1d928.svg",
+    "static/media/mystery.svg": "/chattycat/static/media/mystery.93e8e780.svg",
+    "static/media/paw-alert.svg": "/chattycat/static/media/paw-alert.f593bd8b.svg",
+    "static/media/paw.svg": "/chattycat/static/media/paw.12d3a25e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a36cf9e.js",
+    "static/js/2.88cb79e4.chunk.js",
+    "static/css/main.6d4168b8.chunk.css",
+    "static/js/main.50fa2ffc.chunk.js"
+  ]
+}
