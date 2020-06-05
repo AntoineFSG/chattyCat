@@ -61,6 +61,7 @@ const SearchResult = ({ contactUID, setSearchResults }) => {
         <div className="img-container">
           <img
             style={{ cursor: "pointer" }}
+            alt="avatar"
             src={contact.imageUrl}
             className="avatar"
           />

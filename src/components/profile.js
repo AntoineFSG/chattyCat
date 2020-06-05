@@ -42,6 +42,7 @@ function Profile() {
       >
         <img
           src={cat}
+          alt="cat"
           style={{
             height: "1rem",
             margin: ".5rem",
@@ -52,6 +53,7 @@ function Profile() {
         <motion.img
           variants={arrowMotion}
           animate={profileExposed ? `off` : `on`}
+          alt="arrow"
           transition={{
             duration: 0.5,
             delay: 0.01,

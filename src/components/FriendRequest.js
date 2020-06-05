@@ -56,6 +56,7 @@ export const FriendRequest = ({ contactUID }) => {
           <img
             style={{ cursor: "pointer" }}
             src={contact.imageUrl}
+            alt="avatar-img"
             className="avatar"
           />
         </div>
@@ -63,6 +64,7 @@ export const FriendRequest = ({ contactUID }) => {
           {reqAccepted && (
             <img
               src={done}
+              alt="done"
               style={{
                 height: "1rem",
                 width: "1rem",

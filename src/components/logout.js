@@ -33,6 +33,7 @@ function Logout() {
           margin: ".5rem",
           transform: "translateY(50%)"
         }}
+        alt="logout"
         src={exit}
       />
       Log Out

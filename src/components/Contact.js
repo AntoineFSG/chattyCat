@@ -77,6 +77,7 @@ export const Contact = ({ contactUID }) => {
       >
         <div className="img-container">
           <img
+            alt={`avatar-${contact.username}`}
             style={{ cursor: "pointer" }}
             src={contact.imageUrl}
             className={`avatar ${
@@ -103,7 +104,7 @@ export const Contact = ({ contactUID }) => {
                 ease: "linear",
                 duration: 2
               }}
-            ><img src={paw} style={{ width: "1rem" }} /></motion.div>
+            ><img alt="paw" src={paw} style={{ width: "1rem" }} /></motion.div>
           </AnimatePresence>
         )}
       </div>

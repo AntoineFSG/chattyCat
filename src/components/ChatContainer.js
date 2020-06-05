@@ -46,7 +46,7 @@ function ChatContainer({
     <div
       className={`chat-container ${
         messagesAreShown ? "chat-container-expanded" : undefined
-      }`}
+        }`}
     >
       <div
         className="name-container"
@@ -86,7 +86,7 @@ function ChatContainer({
             }}
           />
           <button className="input-button" type="submit">
-            <img style={{ height: "2rem", width: "2rem" }} src={paw} />
+            <img style={{ height: "2rem", width: "2rem" }} src={paw} alt="paw" />
           </button>
         </form>
       </div>

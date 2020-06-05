@@ -102,7 +102,7 @@ function ImageUpload() {
             }} style={{ marginTop: '1rem', width: '100vw', display: 'flex', flexWrap: 'wrap' }}>
             <div style={{ maxWidth: "250px", display: 'flex', flexDirection: "column" }}>
                 <h3>{userInfos.username}<br />{userInfos.email}</h3>
-                <img style={{ width: '4rem', margin: '1rem auto' }} src={userInfos.imageUrl} />
+                <img style={{ width: '4rem', margin: '1rem auto' }} alt="user-avatar" src={userInfos.imageUrl} />
                 <h4 style={{ cursor: 'pointer', textDecoration: 'underline overline', marginTop: '-.5rem' }} onClick={() => { setChangeImage(!changeImage) }}>
                     Change Image</h4>
             </div>

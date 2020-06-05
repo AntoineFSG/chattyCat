@@ -70,6 +70,7 @@ function SearchContact() {
         >
           <img
             src={addFriends}
+            alt="add friends"
             style={{
               height: "1rem",
               margin: ".5rem",
@@ -79,6 +80,7 @@ function SearchContact() {
         Add Friend
         <motion.img
             variants={arrowMotion}
+            alt="arrow"
             initial={`off`}
             animate={displaySearch ? `off` : `on`}
             transition={{
@@ -158,6 +160,7 @@ function SearchContact() {
                     >
                       <img
                         src={mystery}
+                        alt="interogation point"
                         style={{
                           margin: "0 auto",
                           transform: "translateY(50%)"
