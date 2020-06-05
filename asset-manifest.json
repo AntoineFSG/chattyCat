@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/chattycat/static/css/main.6d4168b8.chunk.css",
-    "main.js": "/chattycat/static/js/main.f284bf77.chunk.js",
-    "main.js.map": "/chattycat/static/js/main.f284bf77.chunk.js.map",
-    "runtime-main.js": "/chattycat/static/js/runtime-main.4a36cf9e.js",
-    "runtime-main.js.map": "/chattycat/static/js/runtime-main.4a36cf9e.js.map",
-    "static/js/2.b868ba42.chunk.js": "/chattycat/static/js/2.b868ba42.chunk.js",
-    "static/js/2.b868ba42.chunk.js.map": "/chattycat/static/js/2.b868ba42.chunk.js.map",
-    "index.html": "/chattycat/index.html",
-    "precache-manifest.0249dcb728d6edd3976e23f0c402f531.js": "/chattycat/precache-manifest.0249dcb728d6edd3976e23f0c402f531.js",
-    "service-worker.js": "/chattycat/service-worker.js",
-    "static/css/main.6d4168b8.chunk.css.map": "/chattycat/static/css/main.6d4168b8.chunk.css.map",
-    "static/js/2.b868ba42.chunk.js.LICENSE.txt": "/chattycat/static/js/2.b868ba42.chunk.js.LICENSE.txt",
-    "static/media/addFriends.svg": "/chattycat/static/media/addFriends.3bce66ec.svg",
-    "static/media/arrow.svg": "/chattycat/static/media/arrow.ac0d7ca7.svg",
-    "static/media/chatProfileViolet.svg": "/chattycat/static/media/chatProfileViolet.93836193.svg",
-    "static/media/done.svg": "/chattycat/static/media/done.914b421b.svg",
-    "static/media/exit.svg": "/chattycat/static/media/exit.13a1d928.svg",
-    "static/media/mystery.svg": "/chattycat/static/media/mystery.93e8e780.svg",
-    "static/media/paw-alert.svg": "/chattycat/static/media/paw-alert.f593bd8b.svg",
-    "static/media/paw.svg": "/chattycat/static/media/paw.12d3a25e.svg"
+    "main.css": "/chattyCat/static/css/main.6d4168b8.chunk.css",
+    "main.js": "/chattyCat/static/js/main.f2a6076c.chunk.js",
+    "main.js.map": "/chattyCat/static/js/main.f2a6076c.chunk.js.map",
+    "runtime-main.js": "/chattyCat/static/js/runtime-main.4c66c521.js",
+    "runtime-main.js.map": "/chattyCat/static/js/runtime-main.4c66c521.js.map",
+    "static/js/2.30abe03d.chunk.js": "/chattyCat/static/js/2.30abe03d.chunk.js",
+    "static/js/2.30abe03d.chunk.js.map": "/chattyCat/static/js/2.30abe03d.chunk.js.map",
+    "index.html": "/chattyCat/index.html",
+    "precache-manifest.733a9251686bdb37af2fcf4284ac3983.js": "/chattyCat/precache-manifest.733a9251686bdb37af2fcf4284ac3983.js",
+    "service-worker.js": "/chattyCat/service-worker.js",
+    "static/css/main.6d4168b8.chunk.css.map": "/chattyCat/static/css/main.6d4168b8.chunk.css.map",
+    "static/js/2.30abe03d.chunk.js.LICENSE.txt": "/chattyCat/static/js/2.30abe03d.chunk.js.LICENSE.txt",
+    "static/media/addFriends.svg": "/chattyCat/static/media/addFriends.3bce66ec.svg",
+    "static/media/arrow.svg": "/chattyCat/static/media/arrow.ac0d7ca7.svg",
+    "static/media/chatProfileViolet.svg": "/chattyCat/static/media/chatProfileViolet.93836193.svg",
+    "static/media/done.svg": "/chattyCat/static/media/done.914b421b.svg",
+    "static/media/exit.svg": "/chattyCat/static/media/exit.13a1d928.svg",
+    "static/media/mystery.svg": "/chattyCat/static/media/mystery.93e8e780.svg",
+    "static/media/paw-alert.svg": "/chattyCat/static/media/paw-alert.f593bd8b.svg",
+    "static/media/paw.svg": "/chattyCat/static/media/paw.12d3a25e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a36cf9e.js",
-    "static/js/2.b868ba42.chunk.js",
+    "static/js/runtime-main.4c66c521.js",
+    "static/js/2.30abe03d.chunk.js",
     "static/css/main.6d4168b8.chunk.css",
-    "static/js/main.f284bf77.chunk.js"
+    "static/js/main.f2a6076c.chunk.js"
   ]
 }
