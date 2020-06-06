@@ -7,8 +7,8 @@ import paw from "../img/paw.svg";
 const Login = () => {
   const [state, setState] = useState({
     error: null,
-    email: "Guest@email.com",
-    password: "password"
+    email: null,
+    password: null
   });
   function handleChange(event) {
     console.log(event.target.value);
