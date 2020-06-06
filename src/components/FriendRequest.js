@@ -50,8 +50,9 @@ export const FriendRequest = ({ contactUID }) => {
   }, [reqAccepted]);
 
   return (
-    <div className="getUserContacts-container">
-      <div onClick={handleClick} className={`${reqAccepted ? "unactive" : ""}`}>
+    <div className="contact-container contact-friend-request-container">
+      <div onClick={handleClick} className="contact-friend-request-overlay"></div>
+      <div className={`${reqAccepted ? "unactive" : ""}`}>
         <div className="img-container">
           <img
             style={{ cursor: "pointer" }}

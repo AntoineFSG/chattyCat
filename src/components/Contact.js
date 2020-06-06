@@ -65,8 +65,8 @@ export const Contact = ({ contactUID }) => {
 
   return (
     <div
-      className={`getUserContacts-container ${
-        messagesAreShown ? "getUserContacts-container-reduced" : undefined
+      className={`contact-container ${
+        messagesAreShown ? "contact-container-reduced" : undefined
         }`}
     >
       <div

@@ -127,7 +127,7 @@ h2 {
 }
 /***GENERAL CONTAINER******************************************/
 
-.getUserContacts-container {
+.contact-container {
   display: flex;
   display: -webkit-flexbox;
   justify-content: center;
@@ -136,15 +136,7 @@ h2 {
   flex: none;
   width: 200px;
 }
-.getUserContacts-container {
-  display: flex;
-  display: -webkit-flexbox;
-  justify-content: center;
-  flex-direction: row;
-  flex-wrap: wrap;
-  flex: none;
-  width: 200px;
-}
+
 .user-container {
   position: relative;
   display: flex;
@@ -186,11 +178,10 @@ h2 {
 .img-container {
   width: 120px;
   height: 120px;
-  text-align: center;
   margin: 0 auto;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
 }
 img.avatar {
   max-height: 100px;
@@ -198,12 +189,6 @@ img.avatar {
   width: auto;
   height: auto;
   margin-bottom: 1rem;
-  transition-property: all;
-  transition: 2s fade-in-out;
-  -webkit-transition: 2s fade-in-out;
-  -moz-transition: 2s fade-in-out;
-  -ms-transition: 2s fade-in-out;
-  -o-transition: 2s fade-in-out;
 }
 /************Disappear when chat is shown *************/
 .getUserContacts-container-reduced {
@@ -327,4 +312,31 @@ h2.name-reduced {
 }
 .targetStyleP {
   background: yellow;
+}
+/***Friend Request**/
+.contact-friend-request-container{
+  border-radius: 0;
+  border:1px white solid;
+  position: relative;
+  
+}
+.contact-friend-request-overlay{
+cursor: pointer;
+position: absolute;
+content:"Add";
+border:1px green solid;
+background-color: white;
+border-radius:10%;
+width: 200px;
+height: 200px;
+opacity:0;
+background-image: url(../img/addFriends.svg);
+background-size: 50px;
+background-repeat: no-repeat;
+background-position: center;
+ transition: all ease-in-out 1s;
+}
+.contact-friend-request-overlay:hover{
+  opacity:.8;
+  background-color: teal;
 }
