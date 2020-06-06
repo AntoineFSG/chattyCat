@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chattyCat/static/css/main.6d4168b8.chunk.css",
-    "main.js": "/chattyCat/static/js/main.f2a6076c.chunk.js",
-    "main.js.map": "/chattyCat/static/js/main.f2a6076c.chunk.js.map",
+    "main.css": "/chattyCat/static/css/main.7da49e99.chunk.css",
+    "main.js": "/chattyCat/static/js/main.4fcf02ec.chunk.js",
+    "main.js.map": "/chattyCat/static/js/main.4fcf02ec.chunk.js.map",
     "runtime-main.js": "/chattyCat/static/js/runtime-main.4c66c521.js",
     "runtime-main.js.map": "/chattyCat/static/js/runtime-main.4c66c521.js.map",
     "static/js/2.30abe03d.chunk.js": "/chattyCat/static/js/2.30abe03d.chunk.js",
     "static/js/2.30abe03d.chunk.js.map": "/chattyCat/static/js/2.30abe03d.chunk.js.map",
     "index.html": "/chattyCat/index.html",
-    "precache-manifest.733a9251686bdb37af2fcf4284ac3983.js": "/chattyCat/precache-manifest.733a9251686bdb37af2fcf4284ac3983.js",
+    "precache-manifest.363fd8b9eeca5695853f0329e4f70e08.js": "/chattyCat/precache-manifest.363fd8b9eeca5695853f0329e4f70e08.js",
     "service-worker.js": "/chattyCat/service-worker.js",
-    "static/css/main.6d4168b8.chunk.css.map": "/chattyCat/static/css/main.6d4168b8.chunk.css.map",
+    "static/css/main.7da49e99.chunk.css.map": "/chattyCat/static/css/main.7da49e99.chunk.css.map",
     "static/js/2.30abe03d.chunk.js.LICENSE.txt": "/chattyCat/static/js/2.30abe03d.chunk.js.LICENSE.txt",
     "static/media/addFriends.svg": "/chattyCat/static/media/addFriends.3bce66ec.svg",
     "static/media/arrow.svg": "/chattyCat/static/media/arrow.ac0d7ca7.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.4c66c521.js",
     "static/js/2.30abe03d.chunk.js",
-    "static/css/main.6d4168b8.chunk.css",
-    "static/js/main.f2a6076c.chunk.js"
+    "static/css/main.7da49e99.chunk.css",
+    "static/js/main.4fcf02ec.chunk.js"
   ]
 }

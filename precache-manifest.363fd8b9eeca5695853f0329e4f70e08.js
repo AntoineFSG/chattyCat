@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bc0ff84eb162f367b5d97af100bd082",
+    "revision": "aee7d8417a3e0fb0ed0d3e0da1c41bdd",
     "url": "/chattyCat/index.html"
   },
   {
-    "revision": "df032d1af2af28a8928b",
-    "url": "/chattyCat/static/css/main.6d4168b8.chunk.css"
+    "revision": "6c933be1bbe458c67e02",
+    "url": "/chattyCat/static/css/main.7da49e99.chunk.css"
   },
   {
     "revision": "de0b76de36df56713c87",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chattyCat/static/js/2.30abe03d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df032d1af2af28a8928b",
-    "url": "/chattyCat/static/js/main.f2a6076c.chunk.js"
+    "revision": "6c933be1bbe458c67e02",
+    "url": "/chattyCat/static/js/main.4fcf02ec.chunk.js"
   },
   {
     "revision": "95b33da8a68f8f16df17",
