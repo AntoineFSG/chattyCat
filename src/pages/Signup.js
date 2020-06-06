@@ -14,7 +14,7 @@ const Signup = () => {
     imageUrl: `https://firebasestorage.googleapis.com/v0/b/${config.storageBucket}/o/default-image.png?alt=media`,
     password: "",
     username: "",
-    friendRequests: []
+    friendRequests: ['QuO4Fv9OZEfPXkgSoXQZoUJilEE3']
   });
 
   function handleChange(event) {
