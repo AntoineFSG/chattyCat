@@ -18,13 +18,10 @@ export const FriendRequest = ({ contactUID }) => {
     addContact(userInfos.userId, contactUID);
     let newContacts = userInfos.contacts;
     newContacts.push(contactUID);
-    let newRequests = userInfos.friendRequests.splice(
-      userInfos.friendRequests.indexOf(contactUID),
-      1
-    );
+
     setUserInfos({
       ...userInfos,
-      friendRequests: newRequests,
+
       contacts: newContacts
     });
     removeFriendRequest(contactUID);
@@ -51,14 +48,14 @@ export const FriendRequest = ({ contactUID }) => {
 
   return (
     <div className="contact-container contact-friend-request-container">
-      <div onClick={handleClick} className="contact-friend-request-overlay"></div>
-      <div className={`${reqAccepted ? "unactive" : ""}`}>
+      <div onClick={handleClick} className={`contact-friend-request-overlay ${reqAccepted ? "unactive" : ""}`}></div>
+      <div>
         <div className="img-container">
           <img
             style={{ cursor: "pointer" }}
             src={contact.imageUrl}
             alt="avatar-img"
-            className="avatar"
+            className={`avatar ${reqAccepted ? "unactive" : ""}`}
           />
         </div>
         <h2 style={{ fontSize: fs }} className="name">

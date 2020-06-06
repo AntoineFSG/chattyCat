@@ -138,6 +138,7 @@ h2 {
 }
 
 .user-container {
+
   position: relative;
   display: flex;
   flex-direction: column;
@@ -191,7 +192,7 @@ img.avatar {
   margin-bottom: 1rem;
 }
 /************Disappear when chat is shown *************/
-.getUserContacts-container-reduced {
+.contact-container-reduced {
   z-index: 9;
 }
 .user-container-reduced {
@@ -278,6 +279,7 @@ h2.name-reduced {
   flex-direction: column;
   position: relative;
   bottom: 0;
+  z-index:99;
 }
 .messageLI {
   list-style: none;
@@ -323,12 +325,11 @@ h2.name-reduced {
 .contact-friend-request-overlay{
 cursor: pointer;
 position: absolute;
-content:"Add";
-border:1px green solid;
-background-color: white;
+content:"";
+background-color:transparent;
 border-radius:10%;
-width: 200px;
-height: 200px;
+width: 150px;
+height: 150px;
 opacity:0;
 background-image: url(../img/addFriends.svg);
 background-size: 50px;
@@ -338,5 +339,5 @@ background-position: center;
 }
 .contact-friend-request-overlay:hover{
   opacity:.8;
-  background-color: teal;
 }
+

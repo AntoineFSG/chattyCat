@@ -86,7 +86,7 @@ function ChatContainer({
             }}
           />
           <button className="input-button" type="submit">
-            <img style={{ height: "2rem", width: "2rem" }} src={paw} alt="paw" />
+            <img style={{ height: "2rem", width: "2rem" }} src={paw} />
           </button>
         </form>
       </div>

@@ -1,5 +1,7 @@
-import React from "react";
+import React, { useState } from "react";
 import { Contact } from "./Contact";
+
+
 
 const ContactsList = ({ contacts }) => {
   console.log("CONTACTLIST: " + contacts);
@@ -17,7 +19,10 @@ const ContactsList = ({ contacts }) => {
       >
         {contacts &&
           contacts[0] !== null &&
-          contacts.map(c => <Contact key={c + "key"} contactUID={c} />)}
+          contacts.map(c => <Contact key={c + "key"}
+            contactUID={c}
+
+          />)}
         {!contacts && <p>loading...</p>}
       </div>
     </div>
