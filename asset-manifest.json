@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/chattyCat/static/css/main.b5466761.chunk.css",
-    "main.js": "/chattyCat/static/js/main.64cb0912.chunk.js",
-    "main.js.map": "/chattyCat/static/js/main.64cb0912.chunk.js.map",
+    "main.css": "/chattyCat/static/css/main.4b9e0884.chunk.css",
+    "main.js": "/chattyCat/static/js/main.de00cf32.chunk.js",
+    "main.js.map": "/chattyCat/static/js/main.de00cf32.chunk.js.map",
     "runtime-main.js": "/chattyCat/static/js/runtime-main.4c66c521.js",
     "runtime-main.js.map": "/chattyCat/static/js/runtime-main.4c66c521.js.map",
-    "static/js/2.30abe03d.chunk.js": "/chattyCat/static/js/2.30abe03d.chunk.js",
-    "static/js/2.30abe03d.chunk.js.map": "/chattyCat/static/js/2.30abe03d.chunk.js.map",
+    "static/js/2.c3185971.chunk.js": "/chattyCat/static/js/2.c3185971.chunk.js",
+    "static/js/2.c3185971.chunk.js.map": "/chattyCat/static/js/2.c3185971.chunk.js.map",
     "index.html": "/chattyCat/index.html",
-    "precache-manifest.ff63e79cf6c6f643f5d1c02a464bc5cd.js": "/chattyCat/precache-manifest.ff63e79cf6c6f643f5d1c02a464bc5cd.js",
+    "precache-manifest.feaa8350881e3ec24a26f8c2fcf62f53.js": "/chattyCat/precache-manifest.feaa8350881e3ec24a26f8c2fcf62f53.js",
     "service-worker.js": "/chattyCat/service-worker.js",
-    "static/css/main.b5466761.chunk.css.map": "/chattyCat/static/css/main.b5466761.chunk.css.map",
-    "static/js/2.30abe03d.chunk.js.LICENSE.txt": "/chattyCat/static/js/2.30abe03d.chunk.js.LICENSE.txt",
+    "static/css/main.4b9e0884.chunk.css.map": "/chattyCat/static/css/main.4b9e0884.chunk.css.map",
+    "static/js/2.c3185971.chunk.js.LICENSE.txt": "/chattyCat/static/js/2.c3185971.chunk.js.LICENSE.txt",
     "static/media/addFriends.svg": "/chattyCat/static/media/addFriends.3bce66ec.svg",
     "static/media/arrow.svg": "/chattyCat/static/media/arrow.ac0d7ca7.svg",
-    "static/media/bell.svg": "/chattyCat/static/media/bell.bb656b77.svg",
     "static/media/chatProfileViolet.svg": "/chattyCat/static/media/chatProfileViolet.93836193.svg",
     "static/media/done.svg": "/chattyCat/static/media/done.914b421b.svg",
     "static/media/exit.svg": "/chattyCat/static/media/exit.13a1d928.svg",
     "static/media/mystery.svg": "/chattyCat/static/media/mystery.93e8e780.svg",
+    "static/media/paw-alert.svg": "/chattyCat/static/media/paw-alert.f593bd8b.svg",
     "static/media/paw.svg": "/chattyCat/static/media/paw.12d3a25e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4c66c521.js",
-    "static/js/2.30abe03d.chunk.js",
-    "static/css/main.b5466761.chunk.css",
-    "static/js/main.64cb0912.chunk.js"
+    "static/js/2.c3185971.chunk.js",
+    "static/css/main.4b9e0884.chunk.css",
+    "static/js/main.de00cf32.chunk.js"
   ]
 }
